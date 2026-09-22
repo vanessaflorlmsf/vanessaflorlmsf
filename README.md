@@ -1,86 +1,168 @@
-# 👩‍💻 Vanessa Alves Flor
+# 👋 Olá, eu sou Vanessa Alves
 
-### Salesforce Administrator | Analista de Sistemas | CRM | Automação
+💻 **Analista de Sistemas | Full Stack Developer | Soluções Digitais**
 
-Olá! 👋 Sou Vanessa Alves Flor, profissional da área de tecnologia, sistemas e soluções digitais.
+Sou profissional da área de tecnologia e soluções digitais, com experiência em **desenvolvimento web, sistemas, CRM, automação, suporte digital e marketing**.
 
-Atuo com **CRM, automação, sistemas, suporte digital e desenvolvimento web**, buscando transformar processos manuais em soluções mais organizadas, eficientes e inteligentes.
-
----
-
-## 🚀 Sobre mim
-
-💻 Analista de Sistemas
-☁️ Salesforce Administrator
-🔄 CRM e Automação
-🌐 Desenvolvimento Web
-📊 Sistemas, dados e processos
-🤖 Inteligência Artificial aplicada a negócios
-🛠️ Suporte técnico e soluções digitais
-
-Tenho interesse em projetos que envolvam **tecnologia, automação, CRM, desenvolvimento de sistemas e melhoria de processos**.
+Minha trajetória combina tecnologia e negócios, permitindo transformar necessidades de empresas em soluções digitais, sistemas, automações e estratégias para presença e aquisição online.
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+## 🚀 Áreas de atuação
 
-### Desenvolvimento
+### 💻 Desenvolvimento Full Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
+* Node.js
+* PHP
+* APIs REST
+* MySQL
+* SQL
+* Git & GitHub
+* Desenvolvimento responsivo
 
-### CRM & Sistemas
+### 🖥️ Análise de Sistemas
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+* Levantamento de requisitos
+* Análise de processos
+* Desenvolvimento e manutenção de sistemas
+* Integração de APIs
+* Banco de dados
+* Automação de processos
+* CRM e ERP
+* Suporte técnico
+* Análise e organização de dados
 
-**CRM • ERP • Automação • Integrações • Relatórios • Processos**
+### ☁️ Salesforce
+
+📚 Atualmente estudando **Salesforce**, com foco em:
+
+* Salesforce Administration
+* CRM
+* Flows
+* Automação
+* Gestão de dados
+* Processos de negócio
+
+### 📱 Social Media
+
+Experiência com gestão de redes sociais e criação de conteúdo para empresas e negócios.
+
+* Planejamento de conteúdo
+* Gestão de Instagram
+* Estratégia de conteúdo
+* Copywriting
+* Conteúdo com IA
+* Análise de métricas
+* Presença digital
+
+### 📊 Gestão de Tráfego
+
+Experiência com estratégias de mídia paga e campanhas digitais.
+
+* Meta Ads
+* Google Ads
+* Planejamento de campanhas
+* Públicos e segmentação
+* Criativos
+* Análise de métricas
+* Otimização de campanhas
+* Geração de leads e conversões
+
+### 🤖 Inteligência Artificial & Automação
+
+Utilizo ferramentas de IA para desenvolvimento, atendimento, criação de conteúdo, automação de processos e soluções digitais.
 
 ---
 
-## 📌 Projetos em destaque
+## 🛠️ Tecnologias
 
-🔹 **Portfólio Web**
-Meu portfólio profissional desenvolvido para apresentar meus projetos, habilidades e experiências.
+**Frontend**
 
-🔹 **Projetos de CRM e Automação**
-Estudos e projetos relacionados à administração de CRM, automação de processos e organização de dados.
+HTML • CSS • JavaScript • TypeScript • React
 
-🔹 **Desenvolvimento Web**
-Projetos utilizando HTML, CSS, JavaScript, PHP e MySQL.
+**Backend**
+
+Node.js • PHP • APIs REST
+
+**Database**
+
+MySQL • SQL
+
+**CRM & Sistemas**
+
+Salesforce • CRM • ERP • Bling • Pipefy
+
+**Marketing**
+
+Meta Ads • Google Ads • Social Media
+
+**Ferramentas**
+
+Git • GitHub • VS Code
+
+**AI**
+
+AI APIs • Automação • AI-assisted development
+
+---
+
+## 📂 Projetos
+
+### 🛒 E-commerce
+
+Aplicação web desenvolvida para gerenciamento e experiência de compra online.
+
+**Stack:** React • TypeScript • Node.js • SQL
+
+### 📊 Dashboard
+
+Dashboard para visualização e análise de informações.
+
+**Stack:** JavaScript • React • API
+
+### 🤖 AI Application
+
+Aplicação web com integração de inteligência artificial.
+
+**Stack:** React • Node.js • AI API
+
+### ⚙️ Sistema Web
+
+Sistema desenvolvido para solucionar processos de negócio e gerenciamento de informações.
+
+**Stack:** JavaScript • PHP • MySQL
 
 ---
 
 ## 📚 Atualmente estudando
 
-* Salesforce Administration
-* Desenvolvimento Full Stack
-* JavaScript
+* Full Stack Development
 * React
 * TypeScript
-* APIs e integrações
+* Node.js
+* APIs
+* Arquitetura de aplicações
+* Inteligência Artificial
+* Salesforce
 * Automação de processos
-* Inteligência Artificial aplicada a negócios
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Busco oportunidades na área de **Tecnologia, Sistemas, CRM, Salesforce, Automação e Desenvolvimento Web**, contribuindo com soluções que gerem eficiência e resultados para as empresas.
+Continuar evoluindo na área de **Tecnologia e Desenvolvimento de Sistemas**, unindo programação, análise de processos, automação, CRM e inteligência artificial para construir soluções digitais eficientes.
 
 ---
 
-## 🌐 Onde me encontrar
+## 📫 Vamos conectar?
 
-💼 **LinkedIn:** [linkedin.com/in/vanessaflor](https://www.linkedin.com/in/vanessaflor/)
+💼 LinkedIn: [Vanessa Alves](https://www.linkedin.com/in/vanessaflor/)
 
-💻 **GitHub:** [github.com/vanessaflorlmsf](https://github.com/vanessaflorlmsf)
+🌐 Portfólio: [Meu Portfólio](https://vanessaflorlmsf.github.io/portfolio)
 
-🌐 **Portfólio:** [vanessaflorlmsf.github.io/portfolio](https://vanessaflorlmsf.github.io/portfolio)
-
----
-
-⭐ Obrigada pela visita ao meu perfil!
+🐙 GitHub: [@vanessaflorlmsf](https://github.com/vanessaflorlmsf)
